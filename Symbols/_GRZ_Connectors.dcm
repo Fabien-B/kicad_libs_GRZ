@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DB9_Female
+D 9-pin female D-SUB connector
+K connector female D-SUB
+F  ~
+$ENDCMP
+#
+$CMP DB9_Female_MountingHoles
+D 9-pin female D-SUB connector, Mounting Hole
+K connector female D-SUB
+F  ~
+$ENDCMP
+#
+$CMP DB9_Male
+D 9-pin male D-SUB connector
+K connector male D-SUB
+F  ~
+$ENDCMP
+#
+$CMP DB9_Male_MountingHoles
+D 9-pin male D-SUB connector, Mounting Hole
+K connector male D-SUB
+F  ~
+$ENDCMP
+#
+$CMP USB_A
+D USB Type A connector
+K connector USB
+F  ~
+$ENDCMP
+#
+$CMP USB_Micro-B_Rec
+D USB Micro Type B connector
+K connector USB micro
+F ~
+$ENDCMP
+#
+#End Doc Library

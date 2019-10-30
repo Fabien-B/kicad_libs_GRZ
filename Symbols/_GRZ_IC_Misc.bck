@@ -1,0 +1,29 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM339PW
+D Quad Differential Comparators (GRZ 09/2018)
+K LM339
+$ENDCMP
+#
+$CMP LSF0102DCU
+D 2 Channel Bidirectional Multi-Voltage Level Translator (GRZ 01/2019)
+K Level Translator
+$ENDCMP
+#
+$CMP LSF0108PW
+D 8 Channel Bidirectional Multi-Voltage Level Translator (GRZ 01/2019)
+K Level Translator
+$ENDCMP
+#
+$CMP TPS2001DDBV
+D Single power-distribution switcher
+K 1-chanel power-distribution USB
+F http://www.ti.com/lit/ds/symlink/tps2041.pdf
+$ENDCMP
+#
+$CMP TXB0106PW
+D 8 Channel Bidirectional Multi-Voltage Level Translator (GRZ 01/2019)
+K Level Translator
+$ENDCMP
+#
+#End Doc Library

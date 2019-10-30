@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM3940IMP-3.3
+D 1A Low Dropout Regulator for 5V to 3.3V Conversion (GRZ 09/2018)
+K LM3940*
+$ENDCMP
+#
+$CMP LT1616
+D 600mA, 1.4MHz Step-Down Switching Regulator (GRZ 01/2019)
+K Step Down Switching Regulator
+$ENDCMP
+#
+$CMP TPS62110
+D 17-V, 1.5-A, SYNCHRONOUS STEP-DOWN CONVERTER
+$ENDCMP
+#
+$CMP TPS73633DBV
+D Cap free NMOS 400mA Low Drop 2.5V Regulator, SOT-23-5
+K Cap free Fixed LDO 400mA
+F http://www.ti.com/lit/ds/symlink/tps736.pdf
+$ENDCMP
+#
+#End Doc Library

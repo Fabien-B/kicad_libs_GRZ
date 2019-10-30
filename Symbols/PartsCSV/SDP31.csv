@@ -1,0 +1,13 @@
+SDP31,,,
+pin,name,type,side
+1,GND,pwr,bottom
+2,GND,pwr,bottom
+3,GND,pwr,bottom
+4,IRQn,out,right
+5,SCL,oc,left
+6,GND,pwr,bottom
+7,VDD,pwr,top
+8,SDA,oc,left
+9,ADDR,in,left
+10,GND,pwr,bottom
+11,GND,pwr,bottom

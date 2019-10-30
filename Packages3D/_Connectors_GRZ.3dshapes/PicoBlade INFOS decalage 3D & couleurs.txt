@@ -1,0 +1,29 @@
+INFO DECALAGE 3D PICOBLADE & Couleurs
+
+Couleur corp = Plastique peu brillant / crème
+Couleur pins =  Alu / satiné
+
+
+Valeur a mettre dans les parametre 3D des empreintes des picoblades
+(ATTENTION : virgule, pas point sinon pas pris en compte)
+--------------------
+53261-*** (SMD 90°)
+Rotation Z = 180
+Offset Y = -2,575
+Offset Z = +1,8
+--------------------
+53398-*** (SMD verticale)
+Rotation X = -90
+Rotation Z = 180
+Offset Y = -0,875
+Offset Z = +3,78
+--------------------
+53047-*** (Traversante verticale)
+Rotation X = -90
+Offset Y = -0,45
+Offset Z = +3,225
+--------------------
+53048-*** (Traversante horizontale)
+Offset Y = +3,475
+Offset Z = +1,9
+

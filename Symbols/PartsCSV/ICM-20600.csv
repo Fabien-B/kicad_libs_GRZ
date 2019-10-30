@@ -1,0 +1,14 @@
+ICM20600,,,
+pin,name,type,side
+1,AD0/SDO,bi,left
+4,INT1,out,right
+5,VDDIO,pwr,top
+6,GND,pwr,bottom
+7,RESV,un,bottom
+8,VDD,pwr,top
+9,INT2,out,right
+10,FSYNC,in,left
+11,REGOUT,pass,right
+12,nCS,in,left
+13,SCL/SCLK,bi,left
+14,SDA/SDI,bi,left

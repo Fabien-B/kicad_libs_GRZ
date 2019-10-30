@@ -1,0 +1,10 @@
+PCA9306DCU,,,
+pin,name,type,side
+1,GND,pwr,bottom
+2,VREF1,pwr,top
+3,SCL1,bi,left
+4,SDA1,bi,left
+5,SDA2,bi,right
+6,SCL2,bi,right
+7,VREF2,pwr,top
+8,EN,in,left

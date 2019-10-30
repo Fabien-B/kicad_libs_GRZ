@@ -1,0 +1,12 @@
+BMP388,,,
+Pin,name,type,side
+1,VDDIO,pwr,bottom
+2,SCK,in,right
+3,VSS,pwr,top
+4,SDI,bi,right
+5,SDO,bi,right
+6,CSB,in,right
+7,INT,out,left
+8,VSS,pwr,top
+9,VSS,pwr,top
+10,VDD,pwr,bottom
