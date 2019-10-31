@@ -15,4 +15,9 @@ D 1.0A/30V low VF MEGA Schottky barrier rectifier (GRZ 02/2019)
 K Diode Schottky
 $ENDCMP
 #
+$CMP PMEG4050ETP
+D 5.0A/40V Schottky diode
+K Diode Schottky
+$ENDCMP
+#
 #End Doc Library
