@@ -31,7 +31,7 @@
   (pad 8 smd rect (at 1.55 5) (size 2.1 0.85) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at -1.55 7) (size 2.1 0.85) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at 1.55 9) (size 2.1 0.85) (layers F.Cu F.Paste F.Mask))
-  (model D:/UAV/Electronique/Kicad/Libraries/Packages3D/_Connectors_GRZ.3dshapes/BF090-10-A-1-N.STEP
+  (model ${USER_3DMOD_DIR}/_Connectors_GRZ.3dshapes/BF090-10-A-1-N.STEP
     (offset (xyz -1.2 10.3 4.3))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

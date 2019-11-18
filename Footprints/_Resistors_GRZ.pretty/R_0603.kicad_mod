@@ -1,4 +1,4 @@
-(module R_0603 (layer F.Cu) (tedit 5C684A62)
+(module R_0603 (layer F.Cu) (tedit 5DD181CB)
   (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
   (tags "resistor 0603")
   (attr smd)
@@ -18,7 +18,7 @@
   (fp_line (start 1.35 0.65) (end -1.35 0.65) (layer F.CrtYd) (width 0.01))
   (pad 1 smd rect (at -0.8 0) (size 0.6 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.8 0) (size 0.6 0.9) (layers F.Cu F.Paste F.Mask))
-  (model Resistors_SMD.3dshapes/R_0603.wrl
+  (model ${USER_3DMOD_DIR}/_Resistors_GRZ/R_0603.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

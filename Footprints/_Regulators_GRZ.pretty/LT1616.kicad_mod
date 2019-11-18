@@ -23,7 +23,7 @@
   (pad 4 smd rect (at 1.35 0.95) (size 1.05 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 1.35 -0.95) (size 1.05 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 1.35 0) (size 1.05 0.6) (layers F.Cu F.Paste F.Mask))
-  (model D:/UAV/Electronique/Kicad/Libraries/Packages3D/_Regulators_GRZ/LT1616.STEP
+  (model ${USER_3DMOD_DIR}/_Regulators_GRZ/LT1616.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

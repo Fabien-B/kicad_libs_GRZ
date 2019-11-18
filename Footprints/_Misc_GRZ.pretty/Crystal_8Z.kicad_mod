@@ -25,7 +25,7 @@
   (pad 2 smd roundrect (at 0.925 0.775) (size 1 0.9) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.055))
   (pad 3 smd roundrect (at 0.925 -0.775) (size 1 0.9) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.055))
   (pad 4 smd roundrect (at -0.925 -0.775) (size 1 0.9) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.0555))
-  (model D:/UAV/Electronique/Kicad/Libraries/Packages3D/_Misc_GRZ_3dshapes/CRYSTAL_8Z.STEP
+  (model ${USER_3DMOD_DIR}/_Misc_GRZ_3dshapes/CRYSTAL_8Z.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

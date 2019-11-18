@@ -20,7 +20,7 @@
   (fp_line (start 2.503999 2.254) (end -2.503999 2.254) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -1.45 0) (size 1.6 3.9) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.45 0) (size 1.6 3.9) (layers F.Cu F.Paste F.Mask))
-  (model D:/UAV/Electronique/Kicad/Libraries/Packages3D/_Inductors_GRZ.3dshapes/VLCF4020T.STEP
+  (model ${USER_3DMOD_DIR}/_Inductors_GRZ.3dshapes/VLCF4020T.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

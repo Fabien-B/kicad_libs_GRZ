@@ -45,7 +45,7 @@
   (pad 26 smd rect (at 3.6 -2.925) (size 1.55 0.35) (layers F.Cu F.Paste F.Mask))
   (pad 27 smd rect (at 3.6 -3.575) (size 1.55 0.35) (layers F.Cu F.Paste F.Mask))
   (pad 28 smd rect (at 3.6 -4.225) (size 1.55 0.35) (layers F.Cu F.Paste F.Mask))
-  (model D:/UAV/Electronique/Kicad/Libraries/Packages3D/_Universal_GRZ.3dshapes/SSOP28.step
+  (model ${USER_3DMOD_DIR}/_Universal_GRZ.3dshapes/SSOP28.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

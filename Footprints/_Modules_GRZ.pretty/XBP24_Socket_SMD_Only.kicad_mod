@@ -62,7 +62,7 @@
   (pad 18 smd rect (at 9.4 -5) (size 2 0.85) (layers F.Cu F.Paste F.Mask))
   (pad 19 smd rect (at 12.6 -7) (size 2 0.85) (layers F.Cu F.Paste F.Mask))
   (pad 20 smd rect (at 9.4 -9) (size 2 0.85) (layers F.Cu F.Paste F.Mask))
-  (model D:/UAV/Electronique/Kicad/Libraries/Packages3D/_Modules_GRZ/XBP24_SOCKET_SMD_ONLY.STEP
+  (model ${USER_3DMOD_DIR}/_Modules_GRZ/XBP24_SOCKET_SMD_ONLY.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

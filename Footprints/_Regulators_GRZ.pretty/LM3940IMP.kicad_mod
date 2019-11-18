@@ -31,7 +31,7 @@
   (pad 2 smd rect (at -3.15 0) (size 1.5 1) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -3.15 2.3) (size 1.5 1) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -3.15 -2.3) (size 1.5 1) (layers F.Cu F.Paste F.Mask))
-  (model D:/UAV/Electronique/Kicad/Libraries/Packages3D/_Regulators_GRZ/LM3940IMP.step
+  (model ${USER_3DMOD_DIR}/_Regulators_GRZ/LM3940IMP.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
