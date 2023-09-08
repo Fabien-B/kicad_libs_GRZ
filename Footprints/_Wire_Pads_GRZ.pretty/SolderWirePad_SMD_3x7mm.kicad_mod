@@ -1,0 +1,13 @@
+(footprint "SolderWirePad_SMD_3x7mm" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0) (layer "F.Fab")
+      (effects (font (size 0.5 0.5) (thickness 0.1)))
+    (tstamp 5a3eb2f1-5016-429a-9e26-2d2f8536742b)
+  )
+  (fp_text value "SolderWirePad_SMD_3x7mm" (at 0 3.25) (layer "F.Fab") hide
+      (effects (font (size 0.5 0.5) (thickness 0.1)))
+    (tstamp 71e62819-869a-4f7f-b7f9-c7bb91a95159)
+  )
+  (pad "1" smd oval (at 0 0) (size 3 7) (layers "F.Cu" "F.Mask") (tstamp dd586f29-a64e-40c3-8206-f65292a59427))
+)

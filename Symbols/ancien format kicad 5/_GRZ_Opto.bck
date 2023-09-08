@@ -1,0 +1,61 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1088AS
+D 8x8 3mm LED Dot Matrix
+$ENDCMP
+#
+$CMP 2841AS-1
+D 4 digit 7 segment common cathode 0.28"
+K display LED
+$ENDCMP
+#
+$CMP 788AS
+D 8x8 1.9mm LED Dot Matrix
+$ENDCMP
+#
+$CMP KP-1608CGCK
+D 1.6x0.8mm SMD Chip LED Lamp Green
+K LED SMD GREEN
+$ENDCMP
+#
+$CMP KP-1608PBC
+D 1.6x0.8mm SMD Chip LED Lamp Blue
+K LED SMD BLUE
+$ENDCMP
+#
+$CMP KP-1608SEC
+D 1.6x0.8mm SMD Chip LED Lamp Orange
+K LED SMD ORANGE
+$ENDCMP
+#
+$CMP KP-1608SURC
+D 1.6x0.8mm SMD Chip LED Lamp Red
+K LED SMD RED
+$ENDCMP
+#
+$CMP KP-1608SYC
+D 1.6x0.8mm SMD Chip LED Lamp Yellow
+K LED SMD YELLOW
+$ENDCMP
+#
+$CMP KPB-2012SURKCGKC
+D 1.6x0.8mm SMD Chip LED Lamp Green
+K LED SMD GREEN
+$ENDCMP
+#
+$CMP LDQ-N3606RI
+D 4 digit 7 segment common cathode 0.36"
+K display LED
+$ENDCMP
+#
+$CMP SK6812-SIDE-A
+D RGB LED with integrated controller
+K RGB LED NeoPixel addressable
+$ENDCMP
+#
+$CMP WS2812-2020
+D RGB LED with integrated controller
+K RGB LED
+$ENDCMP
+#
+#End Doc Library

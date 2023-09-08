@@ -1,0 +1,18 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# MountingHole_LEGO
+#
+DEF MountingHole_LEGO H 0 40 Y Y 1 F N
+F0 "H" 0 200 50 H V C CNN
+F1 "MountingHole_LEGO" 0 -100 50 H V C CNN
+F2 "" 0 100 50 H I C CNN
+F3 "" 0 100 50 H I C CNN
+DRAW
+S -150 100 150 50 0 1 0 f
+S -100 50 100 -50 0 1 0 f
+S -50 150 50 100 0 1 0 f
+ENDDRAW
+ENDDEF
+#
+#End Library

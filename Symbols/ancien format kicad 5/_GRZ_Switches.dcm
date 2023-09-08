@@ -1,0 +1,67 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B3U-1000P
+D Ultra-small Tactile Switch SMD
+$ENDCMP
+#
+$CMP FSMxJSM
+D Micro Miniature Pushbutton switch
+K Pushbutton tactile
+$ENDCMP
+#
+$CMP JS102011JCQN
+D SMT Sub-Miniature Slide Switches
+K switch spdt smt
+F ~
+$ENDCMP
+#
+$CMP Jumper_2P_1C
+D Jumper 2 poles 1 circuit
+$ENDCMP
+#
+$CMP Jumper_2P_2C
+D Jumper 2 poles 2 circuits
+$ENDCMP
+#
+$CMP Jumper_2P_3C
+D Jumper 2 poles 3 circuits
+$ENDCMP
+#
+$CMP Jumper_2P_4C
+D Jumper 2 poles 4 circuits
+$ENDCMP
+#
+$CMP KSA0
+D Sealed Tact Switch
+$ENDCMP
+#
+$CMP KSC3J
+D Sealed Tact Switch for SMT
+$ENDCMP
+#
+$CMP PTS125S
+D 12mm Tact Switch
+$ENDCMP
+#
+$CMP SW_SPDT
+D Switch, single pole double throw
+K switch single-pole double-throw spdt ON-ON
+F ~
+$ENDCMP
+#
+$CMP SolderJumper_2P
+D Solder Jumper, 2-pole, open
+K solder jumper SPST
+$ENDCMP
+#
+$CMP T101SYCQE
+D Toggle subminiature SPDT ON-ON
+K switch toggle single-pole double-throw spdt ON-ON
+F ~
+$ENDCMP
+#
+$CMP TD-85XU
+D Ultra-small Tactile Switch SMD
+$ENDCMP
+#
+#End Doc Library

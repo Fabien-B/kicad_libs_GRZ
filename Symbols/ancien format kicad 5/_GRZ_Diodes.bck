@@ -1,0 +1,31 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PMEG3005AESF
+D 0.5A/30V very low VF MEGA Schottky barrier rectifier (GRZ 02/2019)
+K Diode Schottky
+$ENDCMP
+#
+$CMP PMEG3005EB
+D 0.5A/30V very low VF MEGA Schottky barrier rectifier (GRZ 01/2019)
+K Diode Schottky
+$ENDCMP
+#
+$CMP PMEG3010AESB
+D 1.0A/30V low VF MEGA Schottky barrier rectifier (GRZ 02/2019)
+K Diode Schottky
+$ENDCMP
+#
+$CMP PMEG4020EPK
+D 40 V, 2 A low VF MEGA Schottky barrier rectifier
+$ENDCMP
+#
+$CMP PMEG4050EP
+D 5 A low VF MEGA Schottky barrier rectifier
+$ENDCMP
+#
+$CMP VB30100S
+D High-Voltage Trench MOS Barrier Schottky Rectifier
+K Diode Schottky
+$ENDCMP
+#
+#End Doc Library

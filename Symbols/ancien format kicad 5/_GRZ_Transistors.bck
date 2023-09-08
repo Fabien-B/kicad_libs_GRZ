@@ -1,0 +1,22 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BSS138
+D N-Channel Logic Level MOSFET
+$ENDCMP
+#
+$CMP CSD88584Q5DC
+D 40-V Half-Bridge NexFET Power Block
+K twin N mosfet
+$ENDCMP
+#
+$CMP FDY300NZ
+D Single N-Channel 2.5V Specified PowerTrench MOSFET
+K N Channel MOSFET
+$ENDCMP
+#
+$CMP IRLML2502
+D 20V 45mOhm N-Channel HEXFET Power MOSFET
+K N Channel MOSFET
+$ENDCMP
+#
+#End Doc Library

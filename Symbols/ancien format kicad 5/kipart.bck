@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8323RSRGZ
+D 6 to 60-V Three-Phase Smart Gate Driver
+K motor driver
+$ENDCMP
+#
+#End Doc Library

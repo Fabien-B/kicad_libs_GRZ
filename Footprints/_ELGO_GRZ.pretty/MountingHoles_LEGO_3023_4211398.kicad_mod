@@ -1,0 +1,20 @@
+(module MountingHoles_LEGO_3023_4211398 (layer F.Cu) (tedit 60462196)
+  (descr "Mounting Hole for LEGO 4073 Grey")
+  (tags "mounting hole")
+  (fp_text reference REF** (at 0 -3.5) (layer F.Fab) hide
+    (effects (font (size 0.5 0.5) (thickness 0.1)))
+  )
+  (fp_text value MountingHoles_LEGO_3023_4211398 (at 0 8) (layer F.Fab) hide
+    (effects (font (size 0.5 0.5) (thickness 0.1)))
+  )
+  (fp_circle (center 0 -4) (end 3.9 -4) (layer F.CrtYd) (width 0.01))
+  (fp_circle (center 0 4) (end 3.9 4) (layer F.CrtYd) (width 0.01))
+  (pad "" np_thru_hole circle (at 0 4) (size 4.9 4.9) (drill 4.9) (layers *.Cu *.Mask))
+  (pad "" smd rect (at 0 0) (size 7.8 15.8) (layers B.Mask))
+  (pad "" np_thru_hole circle (at 0 -4) (size 4.9 4.9) (drill 4.9) (layers *.Cu *.Mask))
+  (model ${USER_3DMOD_DIR}/_Lego_GRZ.3dshapes/LEGO_3023_4211398.STEP
+    (offset (xyz 0 0 -4.8))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
+  )
+)

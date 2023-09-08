@@ -1,0 +1,97 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74CBT3257D
+D 4-Bit 1-of-2 Multiplexer/Demultiplexer (SOIC16)
+$ENDCMP
+#
+$CMP 74CBT3257PW
+D 4-Bit 1-of-2 Multiplexer/Demultiplexer (TSSOP16)
+$ENDCMP
+#
+$CMP 74LVC2T45DCT
+D Dual bit dual supply bus transceiver (SSOP8)
+K Level Shifter
+$ENDCMP
+#
+$CMP 74LVC2T45DCU
+D Dual bit dual supply bus transceiver (VSSOP8)
+K Level Shifter
+$ENDCMP
+#
+$CMP DRV8323RSRGZ
+D 6 to 60-V Three-Phase Smart Gate Driver
+K motor driver
+$ENDCMP
+#
+$CMP FM24CL16B-G
+D 16-Kbit (2K × 8) I2C F-RAM
+K FRAM I2C RAM
+$ENDCMP
+#
+$CMP IP5306
+D Battery Management SOC
+$ENDCMP
+#
+$CMP IP5506
+D Battery Management SOC
+$ENDCMP
+#
+$CMP LM339PW
+D Quad Differential Comparators (GRZ 09/2018)
+K LM339
+$ENDCMP
+#
+$CMP LSF0102DCU
+D 2 Channel Bidirectional Multi-Voltage Level Translator (GRZ 01/2019)
+K Level Translator
+$ENDCMP
+#
+$CMP LSF0108PW
+D 8 Channel Bidirectional Multi-Voltage Level Translator (GRZ 01/2019)
+K Level Translator
+$ENDCMP
+#
+$CMP MAX7219xWG
+D Serially Interfaced, 8-Digit LED Display Driver, SOIC24 Wide
+K SERIAL SPI DRIVER LED DISPLAY
+$ENDCMP
+#
+$CMP NCV7719
+D Octal Half Bridge Driver SPI
+$ENDCMP
+#
+$CMP TPA301
+D 350mW Mono Audio Power Amplifier
+$ENDCMP
+#
+$CMP TPS2001DDBV
+D Single power-distribution switcher
+K 1-chanel power-distribution USB
+$ENDCMP
+#
+$CMP TXB0104D
+D 4-Bit bidirectional voltage level translator with auto-direction sensing (SOIC14)
+K voltage level translator
+$ENDCMP
+#
+$CMP TXB0104PW
+D 4-Bit bidirectional voltage level translator with auto-direction sensing (TSSOP14)
+K voltage level translator
+$ENDCMP
+#
+$CMP TXB0106PW
+D 6 Channel Bidirectional Multi-Voltage Level Translator (GRZ 01/2019)
+K Level Translator
+$ENDCMP
+#
+$CMP TXB0108PW
+D 8-bit bidirectional voltage level translator with auto-direction sensing (TSSOP20)
+K bidirectional voltage level translator
+$ENDCMP
+#
+$CMP USBLC6-2SC6
+D Very low capacitance ESD protection SOT23-6
+K usb ethernet video
+$ENDCMP
+#
+#End Doc Library

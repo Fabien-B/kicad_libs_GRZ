@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FC2004C03-FHYYBW-91LE
+D 4x20 Characters LCD Display
+K LCD Display
+$ENDCMP
+#
+$CMP HLK-5M12
+D 5W Ultra-small Power Module 12V
+K Power Module
+$ENDCMP
+#
+$CMP HLK-PM01
+D 3W Ultra-small Power Module 5V
+K Power Module
+$ENDCMP
+#
+#End Doc Library

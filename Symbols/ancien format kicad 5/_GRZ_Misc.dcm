@@ -1,0 +1,52 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ASAK
+D Crystal Clock Oscillator Abracon
+K Crystal Clock Oscillator
+$ENDCMP
+#
+$CMP ASCO
+D Crystal Clock Oscillator Abracon
+K Crystal Clock Oscillator
+$ENDCMP
+#
+$CMP Battery_Cell
+D Single-cell battery
+K battery cell
+F ~
+$ENDCMP
+#
+$CMP Breadboard_SYB-170
+D 46 x 35mm - 170 point Mini-Breadboard
+K Breadboard
+$ENDCMP
+#
+$CMP Buzzer
+D Buzzer, polarized
+K quartz resonator ceramic
+F ~
+$ENDCMP
+#
+$CMP CRYSTAL_ABM3
+D Miniature Ceramic SMD Crystal
+$ENDCMP
+#
+$CMP Fuse
+D Fuse
+K fuse
+F ~
+$ENDCMP
+#
+$CMP Loudspeaker
+D Loudspeaker
+K Loudspeaker
+F ~
+$ENDCMP
+#
+$CMP SMT-0727-S-R
+D Surface Mount Transducer
+K Transducer Loudspeaker
+F ~
+$ENDCMP
+#
+#End Doc Library

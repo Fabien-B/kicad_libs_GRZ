@@ -1,0 +1,168 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DB9_Female
+D 9-pin female D-SUB connector
+K connector female D-SUB
+F  ~
+$ENDCMP
+#
+$CMP DB9_Female_MountingHoles
+D 9-pin female D-SUB connector, Mounting Hole
+K connector female D-SUB
+F  ~
+$ENDCMP
+#
+$CMP DB9_Male
+D 9-pin male D-SUB connector
+K connector male D-SUB
+F  ~
+$ENDCMP
+#
+$CMP DB9_Male_MountingHoles
+D 9-pin male D-SUB connector, Mounting Hole
+K connector male D-SUB
+F  ~
+$ENDCMP
+#
+$CMP DIL14
+D Dual In line Package 14 pin
+K DIL DIP
+$ENDCMP
+#
+$CMP DIL16
+D Dual In line Package 16 pin
+K DIL DIP
+$ENDCMP
+#
+$CMP DIL20
+D Dual In line Package 20 pin
+K DIL DIP
+$ENDCMP
+#
+$CMP DIL24
+D Dual In line Package 24 pin
+K DIL DIP
+$ENDCMP
+#
+$CMP Header_02x1
+D Header 1 Pins/Row x 1 Row
+$ENDCMP
+#
+$CMP Header_02x2
+D Header 2 Pins/Row x 2 Rows
+$ENDCMP
+#
+$CMP Header_03x1
+D Header 3 Pins/Row x 1 Row
+$ENDCMP
+#
+$CMP Header_03x2
+D Header 3 Pins/Row x 2 Rows
+$ENDCMP
+#
+$CMP Header_04x1
+D Header 4 Pins/Row x 1 Row
+$ENDCMP
+#
+$CMP Header_04x2
+D Header 4 Pins/Row x 2 Rows
+$ENDCMP
+#
+$CMP Header_05x1
+D Header 5 Pins/Row x 1 Row
+$ENDCMP
+#
+$CMP Header_05x2
+D Header 5 Pins/Row x 2 Rows
+$ENDCMP
+#
+$CMP Header_06x1
+D Header 6 Pins/Row x 1 Row
+$ENDCMP
+#
+$CMP Header_06x2
+D Header 6 Pins/Row x 2 Rows
+$ENDCMP
+#
+$CMP Header_07x1
+D Header 7 Pins/Row x 1 Row
+$ENDCMP
+#
+$CMP Header_07x2
+D Header 7 Pins/Row x 2 Rows
+$ENDCMP
+#
+$CMP Header_08x1
+D Header 8 Pins/Row x 1 Row
+$ENDCMP
+#
+$CMP Header_08x2
+D Header 8 Pins/Row x 2 Rows
+$ENDCMP
+#
+$CMP Header_08x3
+D Header 8 Pins/Row x 3 Rows
+$ENDCMP
+#
+$CMP Header_09x1
+D Header 9 Pins/Row x 1 Row
+$ENDCMP
+#
+$CMP Header_10x1
+D Header 10 Pins/Row x 1 Row
+$ENDCMP
+#
+$CMP Header_10x2
+D Header 10 Pins/Row x 2 Rows
+$ENDCMP
+#
+$CMP Header_11x1
+D Header 11 Pins/Row x 1 Row
+$ENDCMP
+#
+$CMP Header_13x2
+D Header 13 Pins/Row x 2 Rows
+$ENDCMP
+#
+$CMP Header_14x2
+D Header 14 Pins/Row x 2 Rows
+$ENDCMP
+#
+$CMP Header_16x1
+D Header 16 Pins/Row x 1 Row
+$ENDCMP
+#
+$CMP Header_16x2
+D Header 14 Pins/Row x 2 Rows
+$ENDCMP
+#
+$CMP Header_18x1
+D Header 18 Pins/Row x 1 Row
+$ENDCMP
+#
+$CMP IEC60320-C8
+D Header 1 Pins/Row x 1 Row
+$ENDCMP
+#
+$CMP USB_A
+D USB Type A connector
+K connector USB
+F  ~
+$ENDCMP
+#
+$CMP USB_Micro-B_Rec
+D USB Micro Type B connector
+K connector USB micro
+$ENDCMP
+#
+$CMP ZIF_DIL16
+D ZIF socket 16 pin
+K ZIF DIP
+$ENDCMP
+#
+$CMP ZIF_DIL28
+D ZIF socket 28 pin
+K ZIF DIP
+$ENDCMP
+#
+#End Doc Library

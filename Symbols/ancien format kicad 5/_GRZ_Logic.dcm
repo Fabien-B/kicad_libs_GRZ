@@ -1,0 +1,98 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 27C512
+D UV EPROM 512 Kbit (64K x8)
+K UV EPROM 512
+$ENDCMP
+#
+$CMP 7400
+D NAND2 x4
+K NAND
+$ENDCMP
+#
+$CMP 7404
+D INV x6
+K NOT INV
+$ENDCMP
+#
+$CMP 7408
+D AND2 x4
+K AND
+$ENDCMP
+#
+$CMP 7410
+D NAND3 x3
+K NAND
+$ENDCMP
+#
+$CMP 74162
+D Synchronous Presettable BCD Counter
+K 74162
+$ENDCMP
+#
+$CMP 74163
+D Synchronous Presettable Binary Counter
+K 74163
+$ENDCMP
+#
+$CMP 74168
+D Synchronous Presettable Up/Down BCD Counter
+K 74168
+$ENDCMP
+#
+$CMP 74169
+D Synchronous Presettable Binary Up/Down Counter
+K 74169
+$ENDCMP
+#
+$CMP 74181
+D 4-bit Arithmetic Logic Unit
+K ALU
+$ENDCMP
+#
+$CMP 74194
+D Shift Register 4-bit Bidirectional
+K Shift register
+F http://www.ti.com/lit/gpn/sn74LS194
+$ENDCMP
+#
+$CMP 7432
+D OR2 x4
+K TTL Or2
+$ENDCMP
+#
+$CMP 74684
+D 8 Magnitude/Identity Comparator
+$ENDCMP
+#
+$CMP 74686
+D 8 Magnitude/Identity Comparator with Output Enable
+$ENDCMP
+#
+$CMP 7474
+D Dual D Flip-flop, async Set & Reset
+K TTL DFF
+F 74xx/74hc_hct74.pdf
+$ENDCMP
+#
+$CMP 7486
+D XOR2 x4
+K XOR2
+$ENDCMP
+#
+$CMP 74LVC1G14
+D Single Schmitt-Trigger Inverter
+K Single Schmitt Trigger Inverter
+$ENDCMP
+#
+$CMP 74LVC1G34
+D Single Buffer Gate, Low-Voltage CMOS
+K Single Gate Buff LVC CMOS
+$ENDCMP
+#
+$CMP AD557JN
+D Single 8-bit DAC, Internal Reference, Output Amp, Single Supply, DIP-16
+K 8bit DAC Reference Single Supply
+$ENDCMP
+#
+#End Doc Library
