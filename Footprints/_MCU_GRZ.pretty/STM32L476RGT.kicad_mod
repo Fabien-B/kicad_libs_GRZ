@@ -93,7 +93,7 @@
   (pad 62 smd rect (at -2.75 -5.7 90) (size 1 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 63 smd rect (at -3.25 -5.7 90) (size 1 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 64 smd rect (at -3.75 -5.7 90) (size 1 0.25) (layers F.Cu F.Paste F.Mask))
-  (model ${USER_3DMOD_DIR}/MCU_GRZ.3dshapes/STM32L476RGT.wrl
+  (model D:/UAV/Electronique/Kicad/Libraries/Packages3D/MCU_GRZ.3dshapes/STM32L476RGT.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

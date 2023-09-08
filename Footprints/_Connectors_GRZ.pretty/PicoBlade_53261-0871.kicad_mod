@@ -41,7 +41,7 @@
   (pad 2 smd rect (at -3.125 -1.45) (size 0.8 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -4.375 -1.45) (size 0.8 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at 4.375 -1.45) (size 0.8 1.6) (layers F.Cu F.Paste F.Mask))
-  (model ${USER_3DMOD_DIR}/_Connectors_GRZ.3dshapes/PicoBlade_53261-0871.step
+  (model D:/UAV/Electronique/Kicad/Libraries/Packages3D/_Connectors_GRZ.3dshapes/PicoBlade_53261-0871.step
     (offset (xyz 0 -2.575 1.8))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

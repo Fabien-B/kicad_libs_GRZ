@@ -1,4 +1,4 @@
-(module C_0402 (layer F.Cu) (tedit 5C6D3418)
+(module C_0402 (layer F.Cu) (tedit 5E68E288)
   (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
   (tags "resistor 0402")
   (attr smd)
